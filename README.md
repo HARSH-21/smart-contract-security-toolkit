@@ -52,7 +52,7 @@ You can run the toolkit on any standard Solidity contract. Point the main Python
 **Command:**
 
 ```bash
-python3 smart_contract_audit_toolkit.py contracts/MultiSigTimelock.sol
+python3 smart_contract_audit_toolkit.py contracts/Smartcontract.sol
 ```
 
 **Output Structure:**
